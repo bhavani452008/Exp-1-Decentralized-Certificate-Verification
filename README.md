@@ -1,8 +1,11 @@
 # Experiment 1: Decentralized Certificate Verification
+
 # Aim:
+
 To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
 
 # Algorithm:
+
 Deploy a smart contract where universities can issue certificates.
 Store a hash of certificate data on-chain.
 Provide a verification function that checks certificate authenticity.
@@ -32,9 +35,11 @@ return certificates[certHash];
 }
 }
 ```
+
 # Output:
 
-
+![alt text](Certificate.png)
 
 # Result:
+
 The certificate verification experiment is implemented successfully
